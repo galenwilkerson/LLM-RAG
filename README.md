@@ -1,4 +1,5 @@
-# LLM-RAG
+# LLM-RAG - There are things an LLM doesn't know and must look up.
+
 A simple example of retrieval augmented generation (RAG) for LLMs.
 
 This repository provides a simple implementation of a Retrieval-Augmented Generation (RAG) system using smaller pre-trained models from the Hugging Face Transformers library. The implementation is demonstrated in a Jupyter Notebook named `LLM RAG example.ipynb`.
